@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>🏃🏃‍♀️</h1>
         <p>
-          Hey activa - lets get active again!
+          Hey activa - lets get active again!!!
         </p>
       </header>
     </div>
